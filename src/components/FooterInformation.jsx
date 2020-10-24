@@ -11,37 +11,37 @@ class FooterInformation extends React.Component {
                     <div class="row">
                         <div class="col">
                             <b>POPULAR CATEGORIES</b><br />
-                            <a href="">Cars</a><br />
-                            <a href="">Flats for rent</a><br />
-                            <a href="">Jobs</a><br />
-                            <a href="">Mobile Phones</a><br />
-                            <a href=""></a><br />
+                            <a href="http://">Cars</a><br />
+                            <a href="http://">Flats for rent</a><br />
+                            <a href="http://">Jobs</a><br />
+                            <a href="http://">Mobile Phones</a><br />
+                            <a href="http://"></a><br />
 
                         </div>
                         <div class="col">
 
                             <b>TRENDING SEARCHES</b><br />
-                            <a href="">Bikes</a><br />
-                            <a href="">Watches</a><br />
-                            <a href="">Books</a><br />
-                            <a href="">Dogs</a><br />
+                            <a href="http://">Bikes</a><br />
+                            <a href="http://">Watches</a><br />
+                            <a href="http://">Books</a><br />
+                            <a href="http://">Dogs</a><br />
 
                         </div>
                         <div class="col">
 
                             <b>ABOUT US</b><br />
-                            <a href="">About OLX Group</a><br />
-                            <a href="">OLX Blog</a><br />
-                            <a href="">Contact Us</a><br />
-                            <a href="">OLX for Businesses</a><br />
+                            <a href="http://">About OLX Group</a><br />
+                            <a href="http://">OLX Blog</a><br />
+                            <a href="http://">Contact Us</a><br />
+                            <a href="http://">OLX for Businesses</a><br />
 
                         </div>
                         <div class="col">
 
                             <b>OLX</b><br />
-                            <a href="">Help</a><br />
-                            <a href="">Sitemap</a><br />
-                            <a href="">Legal & Privacy information</a><br />
+                            <a href="http://">Help</a><br />
+                            <a href="http://">Sitemap</a><br />
+                            <a href="http://">Legal & Privacy information</a><br />
 
                         </div>
                         <div class="col">

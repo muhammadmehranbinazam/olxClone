@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'http://
 class Menu extends React.Component {
     render() {
         return (
@@ -12,10 +12,10 @@ class Menu extends React.Component {
                             <div class="dropdown-menu dropdown-menu-left dropdown-menu-lg-left">
                                 <button class="dropdown-item" type="button">
                                     <nav class="nav flex-column">
-                                        <a class="nav-link active" href="#">Active</a>
-                                        <a class="nav-link" href="#">Link</a>
-                                        <a class="nav-link" href="#">Link</a>
-                                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                                        <a class="nav-link active" href="http://">Active</a>
+                                        <a class="nav-link" href="http://">Link</a>
+                                        <a class="nav-link" href="http://">Link</a>
+                                        <a class="nav-link disabled" href="http://" tabindex="-1" aria-disabled="true">Disabled</a>
                                     </nav>
                                 </button>
                                 <button class="dropdown-item" type="button">Faisalabad</button>
@@ -27,25 +27,25 @@ class Menu extends React.Component {
                         </div></a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link active" href="#">Mobile Phones</a>
+                        <a className="nav-link active" href="http://">Mobile Phones</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Cars</a>
+                        <a className="nav-link" href="http://">Cars</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Motorcycles</a>
+                        <a className="nav-link" href="http://">Motorcycles</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#" >Houses</a>
+                        <a className="nav-link" href="http://" >Houses</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#" >TV-Video-Audio</a>
+                        <a className="nav-link" href="http://" >TV-Video-Audio</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#" >Tablets</a>
+                        <a className="nav-link" href="http://" >Tablets</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#" >Land & Plots</a>
+                        <a className="nav-link" href="http://" >Land & Plots</a>
                     </li>
                 </ul>
             </div>

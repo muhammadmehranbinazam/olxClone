@@ -5,7 +5,7 @@ class Banner extends React.Component{
     render(){
         return(
             <div>
-                <img src={BannerImage} className="Banner"/>
+                <img src={BannerImage} className="Banner" alt="Banner Image"/>
             </div>
         )
     }
