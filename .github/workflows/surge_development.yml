@@ -33,7 +33,7 @@ jobs:
       - name: Install Surge
         run: npm install -g surge
       - name: deploy to surge
-        run: surge ./build project003-mehranazam.surge.sh --token ${{secrets.SURGE_TOKEN}}
+        run: surge ./build olxclone-mehranazam.surge.sh --token ${{secrets.SURGE_TOKEN}}
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
