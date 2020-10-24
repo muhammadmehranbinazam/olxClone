@@ -32,14 +32,14 @@ class Header extends React.Component {
                 <div className="itemsearch">
                     <input className="itemsearchbox" type="text" name="" id="" placeholder="Find Cars,Mobile Phones and More..." />
                     <div className="itemlogo">
-                        <a href="http://"><img src={search} className="icon itemicon" /></a>
+                        <a href="http://"><img src={search} className="icon itemicon" alt="Search" /></a>
                     </div>
                 </div>
                 <div className="login">
                     <a href="http://" target="_blank" rel="noopener noreferrer">Login</a>
                 </div>
                 <div className="sellbutton">
-                    <a href="http://"><img src={plus} className='icon' /> Sell</a>
+                    <a href="http://"><img src={plus} className='icon' alt="plus icon"/> Sell</a>
                 </div>
                 
             </div>
