@@ -9,10 +9,10 @@ class Header extends React.Component {
         return (
             <div className="Header">
                 <div className="logo">
-                    <img src={require("../img/logo.png")} />
+                    <img src={require("../img/logo.png")}  alt="Search" />
                 </div>
                 <div className="location">
-                    <img src={search} className="icon" />
+                    <img src={search} className="icon" alt="Search"/>
                     <input type="text" name="" id="" className="loctionsearch" placeholder="Search City, Area or local" />
                     
                         <div class="btn-group">
@@ -32,14 +32,14 @@ class Header extends React.Component {
                 <div className="itemsearch">
                     <input className="itemsearchbox" type="text" name="" id="" placeholder="Find Cars,Mobile Phones and More..." />
                     <div className="itemlogo">
-                        <a href=""><img src={search} className="icon itemicon" /></a>
+                        <a href="http://"><img src={search} className="icon itemicon" /></a>
                     </div>
                 </div>
                 <div className="login">
                     <a href="http://" target="_blank" rel="noopener noreferrer">Login</a>
                 </div>
                 <div className="sellbutton">
-                    <a href=""><img src={plus} className='icon' /> Sell</a>
+                    <a href="http://"><img src={plus} className='icon' /> Sell</a>
                 </div>
                 
             </div>
