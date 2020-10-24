@@ -1,4 +1,4 @@
-import React from 'react'http://
+import React from 'react';
 class Menu extends React.Component {
     render() {
         return (
