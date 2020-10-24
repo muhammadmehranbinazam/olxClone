@@ -5,7 +5,7 @@ class Menu extends React.Component {
             <div className="menubar">
                 <ul className="nav">
                     <li className="nav-item">
-                        <a className="nav-link active bold" href="#"><div class="btn-group">
+                        <a className="nav-link active bold" href="http://"><div class="btn-group">
                             <button type="button" class="btn  dropdown-toggle" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false">
                             <b>ALL CATEGORIES</b> <i class="fas fa-chevron-down"></i>
                             </button>

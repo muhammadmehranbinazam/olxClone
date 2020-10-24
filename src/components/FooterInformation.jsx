@@ -15,8 +15,6 @@ class FooterInformation extends React.Component {
                             <a href="http://">Flats for rent</a><br />
                             <a href="http://">Jobs</a><br />
                             <a href="http://">Mobile Phones</a><br />
-                            <a href="http://"></a><br />
-
                         </div>
                         <div class="col">
 
@@ -47,10 +45,10 @@ class FooterInformation extends React.Component {
                         <div class="col">
                             <b>FOLLOW US</b><br />
 
-                            <a class="fb-ic mr-3" role="button"><i class="fab fa-lg fa-facebook-f"></i></a>
-                            <a class="tw-ic mr-3" role="button"><i class="fab fa-lg fa-twitter"></i></a>
-                            <a class="ins-ic mr-3" role="button"><i class="fab fa-lg fa-instagram"></i></a>
-                            <a class="yt-ic mr-3" role="button"><i class="fab fa-lg fa-youtube"></i></a>
+                            <a href="http://" class="fb-ic mr-3" role="button"><i class="fab fa-lg fa-facebook-f"></i></a>
+                            <a href="http://" class="tw-ic mr-3" role="button"><i class="fab fa-lg fa-twitter"></i></a>
+                            <a href="http://" class="ins-ic mr-3" role="button"><i class="fab fa-lg fa-instagram"></i></a>
+                            <a href="http://" class="yt-ic mr-3" role="button"><i class="fab fa-lg fa-youtube"></i></a>
                             <div className="Andriod"><MobileStoreButton store="android" width="300px" height="100px" url={androidUrl} linkProps={{title: "Android Store Button"}} style={{position:"relative",left:"100px",top:"30px"}} /></div>
                         
                         <div className='ios'><MobileStoreButton store="ios"  url={iOSUrl} linkProps={{title: "Apple Store Button"}} style={{position:"relative",left:"50px",top:"70px"}}/></div>
